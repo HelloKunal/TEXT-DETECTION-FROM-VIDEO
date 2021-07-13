@@ -1,0 +1,6 @@
+Python project Text detection from video 1234567890 
+What is happening with this thing 1 2 3 4 5689 0 1 
+Our code is extracting images from the video 
+And then processing them into a new video which outlines the text 
+It can also save the text to further analyse it "| capwinga 
+This proces is very fast ! The main video is only A FEW SECONDS long ! '". KAPWING 
